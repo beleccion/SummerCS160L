@@ -1,0 +1,125 @@
+ORDER RECEIPT
+Timestamp: 2023-06-20 01:22AM
+Item 1: A black coffee with CARAMEL with hot water with milk with whipped cream - 2.15
+Item 2: An espresso with hot water - 1.75
+TOTAL = 3.90
+
+ORDER RECEIPT
+Timestamp: 2023-06-20 03:59PM
+Item 1: A black coffee - 1.00
+TOTAL = 1.00
+
+ORDER RECEIPT
+Timestamp: 2023-06-21 01:54AM
+Item 1: A black coffee with hot water with milk - 1.55
+Item 2: An espresso - 1.75
+Item 3: A black coffee with whipped cream - 1.25
+TOTAL = 4.55
+
+ORDER RECEIPT
+Timestamp: 2023-06-21 01:55AM
+Item 1: A black coffee with hot water - 1.00
+Item 2: An espresso - 1.75
+TOTAL = 2.75
+
+ORDER RECEIPT
+Timestamp: 2023-06-21 02:01AM
+Item 1: A black coffee with MOCHA with milk - 1.90
+Item 2: An espresso - 1.75
+TOTAL = 3.65
+
+ORDER RECEIPT
+Timestamp: 2023-06-21 02:02AM
+Item 1: A black coffee - 1.00
+Item 2: A black coffee with whipped cream with milk with hot water - 1.80
+Item 3: An espresso with hot water - 1.75
+Item 4: An espresso - 1.75
+Item 5: A black coffee with whipped cream - 1.25
+TOTAL = 7.55
+
+ORDER RECEIPT
+Timestamp: 2023-06-21 03:20AM
+Item 1: A black coffee - 1.00
+TOTAL = 1.00
+
+ORDER RECEIPT
+Timestamp: 2023-06-21 03:23AM
+Item 1: A black coffee with hot water with milk - 1.55
+TOTAL = 1.55
+
+ORDER RECEIPT
+Timestamp: 2023-06-21 04:54AM
+Item 1: A black coffee - 1.00
+TOTAL = 1.00
+
+ORDER RECEIPT
+Timestamp: 2023-06-21 05:18AM
+Item 1: A black coffee with hot water - 1.00
+TOTAL = 1.00
+
+ORDER RECEIPT
+Timestamp: 2023-06-21 06:00AM
+Item 1: An espresso - 1.75
+TOTAL = 1.75
+
+ORDER RECEIPT
+Timestamp: 2023-06-21 06:24AM
+Item 1: An espresso - 1.75
+TOTAL = 1.75
+
+ORDER RECEIPT
+Timestamp: 2023-06-21 06:44AM
+Item 1: An espresso - 1.75
+Item 2: An espresso - 1.75
+Item 3: An espresso - 1.75
+Item 4: An espresso - 1.75
+Item 5: An espresso - 1.75
+Item 6: An espresso - 1.75
+Item 7: An espresso - 1.75
+Item 8: An espresso - 1.75
+Item 9: An espresso - 1.75
+Item 10: A black coffee - 1.00
+TOTAL = 16.75
+
+ORDER RECEIPT
+Timestamp: 2023-06-21 06:57AM
+Item 1: A black coffee with MOCHA - 1.35
+TOTAL = 1.35
+
+ORDER RECEIPT
+Timestamp: 2023-06-21 07:18AM
+Item 1: A black coffee - 1.00
+TOTAL = 1.00
+
+ORDER RECEIPT
+Timestamp: 2023-06-21 03:07PM
+Item 1: A black coffee with whipped cream - 1.25
+TOTAL = 1.25
+
+ORDER RECEIPT
+Timestamp: 2023-06-21 03:08PM
+Item 1: A black coffee with milk - 1.55
+TOTAL = 1.55
+
+ORDER RECEIPT
+Timestamp: 2023-06-21 03:08PM
+Item 1: A black coffee - 1.00
+Item 2: A black coffee - 1.00
+Item 3: A black coffee - 1.00
+TOTAL = 3.00
+
+ORDER RECEIPT
+Timestamp: 2023-06-21 03:10PM
+Item 1: A black coffee with MOCHA - 1.35
+TOTAL = 1.35
+
+ORDER RECEIPT
+Timestamp: 2023-06-27 10:02PM
+Item 1: A black coffee - 1.00
+TOTAL = 1.00
+
+ORDER RECEIPT
+Timestamp: 2023-06-27 10:48PM
+Item 1: A black coffee with MOCHA with hot water with milk with sugar with whipped cream - 2.30
+TOTAL = 2.30
+
